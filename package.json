@@ -1,7 +1,7 @@
 {
   "name": "@jaychoww/clickup-mcp-server",
-  "version": "0.8.4",
-  "description": "ClickUp MCP Server - Enhanced fork with task dependency management and parameter fixes",
+  "version": "0.8.5",
+  "description": "MIT-licensed ClickUp MCP server (fork of taazkareem v0.8.x, the last MIT line). 41 tools incl. native custom-task-id lookup, task dependencies, documents, and raw ClickUp API passthrough.",
   "type": "module",
   "main": "build/index.js",
   "bin": {
