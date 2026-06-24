@@ -1,5 +1,5 @@
 {
-  "name": "@djclarkson/clickup-mcp-server",
+  "name": "@jaychoww/clickup-mcp-server",
   "version": "0.8.4",
   "description": "ClickUp MCP Server - Enhanced fork with task dependency management and parameter fixes",
   "type": "module",
@@ -49,12 +49,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/djclarkson/clickup-mcp-server.git"
+    "url": "git+https://github.com/jaychoww/clickup-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/djclarkson/clickup-mcp-server/issues"
+    "url": "https://github.com/jaychoww/clickup-mcp-server/issues"
   },
-  "homepage": "https://github.com/djclarkson/clickup-mcp-server#readme",
+  "homepage": "https://github.com/jaychoww/clickup-mcp-server#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.3",
     "axios": "^1.6.7",
@@ -74,5 +74,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "contributors": []
 }
